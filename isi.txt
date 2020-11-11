@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 80BC-9A6E
+
+ Directory of C:\Latihan\Project03
+
+11/11/2020  19:35    <DIR>          .
+11/11/2020  19:35    <DIR>          ..
+11/11/2020  19:35                 0 isi.txt
+11/11/2020  19:34                19 nindya.txt
+               2 File(s)             19 bytes
+               2 Dir(s)  59.288.739.840 bytes free
